@@ -1,0 +1,15 @@
+data-description="Ele tem o poder de disparar rajadas ópticas por um acidente que aconteceu com ele quando criança, mas não consegue controlá-los">
+                 
+data-description="Jean Grey é uma mutante nível ômega e o principal avatar da Força Fênix, no qual manifesta poderes cósmicos. A telepatia e telecinese">
+
+data-description="Ela tem o poder de atravessar matéria sólida,campos de energia,rajadas ópticas, continuando intacta,e também tem o poder de andar no ar">
+
+data-description="Tem o poder de controlar as forças da natureza, muito poderosa ela pode produzir raios, chuvas, gelos, ventos, neblina, entre outros efeitos">
+
+data-description="Ela tem o poder de absorver a vitalidade e memória das pessoas que toca ou no caso dos mutantes os poderes e a memória, mas só temporariamente">
+ 
+data-description="Poderes. Garras Metálicas. Fator de Cura Regenerativo, Super Agilidade."
+
+data-description="Ele é um mutante que nasceu com cauda, orelhas pontudas e com o poder de se Teletransportar">
+
+data-description="Ele tem o poder de magnetocinese, ou seja, controlar objetos de metal e criar campos magnéticos">
